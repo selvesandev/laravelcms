@@ -13,6 +13,8 @@
     <script src="{{URL::to('assets/gauge.js/dist/gauge.min.js')}}"></script>
     <!-- bootstrap-progressbar -->
     <script src="{{URL::to('assets/bootstrap-progressbar/bootstrap-progressbar.min.js')}}"></script>
+    <!-- select 2 -->
+    <script src="{{URL::to('assets/select2/dist/js/select2.js')}}" type="text/javascript"></script>
     <!-- iCheck -->
     <script src="{{URL::to('assets/iCheck/icheck.min.js')}}"></script>
     <!-- Skycons -->

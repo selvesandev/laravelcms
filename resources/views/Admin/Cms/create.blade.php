@@ -5,29 +5,14 @@
     <!-- page content -->
     <div class="right_col" role="main">
         <div class="">
-            <div class="page-title">
-                <div class="title_left">
-                    <h3>Welcome to the dashboard</h3>
-                </div>
 
-                <div class="title_right">
-                    <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="Search for...">
-                            <span class="input-group-btn">
-                      <button class="btn btn-default" type="button">Go!</button>
-                    </span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            @include('Admin.Common.dashboard_title')
 
             <div class="clearfix"></div>
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
-                    <form action="" class="form-horizontal form-label-left">
+                    <form action="{{route('cms-create')}}" method="post" class="form-horizontal form-label-left">
                         <div class="x_panel">
-
                             <!--page title-->
                             <div class="x_title">
                                 <h2>Create Page</h2>
@@ -43,28 +28,42 @@
 
                             <!--Page Content-->
                             <div class="x_content">
+
+                                @include('Admin.Common.validation')
+                                <div class="form-group">
+                                    <label for="belonging" class="control-label col-xs-3">Sub Page of </label>
+                                    <div class="col-sm-6">
+                                        <select name="parent_id" id="" class="select2_single form-control">
+                                            <option value="-1">None</option>
+                                        </select>
+                                    </div>
+                                </div>
+
+
                                 <div class="form-group">
                                     <label for="title" class="control-label col-xs-3">Title <span
                                                 class="required">*</span></label>
                                     <div class="col-sm-6">
-                                        <input id="title" type="text" name="title" required
+                                        <input id="title" type="text" name="title"
                                                class="form-control col-md-7">
                                     </div>
                                 </div>
 
+                                {{csrf_field()}}
+
                                 <div class="form-group">
-                                    <label for="h1title" class="control-label col-xs-3">H1 Title <span class="required">*</span></label>
+                                    <label for="h1title" class="control-label col-xs-3">H1 Title <span class="">*</span></label>
                                     <div class="col-sm-6">
-                                        <input id="h1title" type="text" name="h1title" required
+                                        <input id="h1title" type="text" name="h1title"
                                                class="form-control col-md-7">
                                     </div>
                                 </div>
 
                                 <div class="form-group">
                                     <label for="menutitle" class="control-label col-xs-3">Menu Title <span
-                                                class="required">*</span></label>
+                                                class="">*</span></label>
                                     <div class="col-sm-6">
-                                        <input type="text" id="menutitle" name="menu_title" required
+                                        <input type="text" id="menutitle" name="menutitle"
                                                class="form-control col-md-7">
                                     </div>
                                 </div>
@@ -80,22 +79,32 @@
                                 <div class="form-group">
                                     <label for="upload" class="control-label col-xs-3">Page Status </label>
                                     <div class="col-sm-6">
-                                        <input type="file" id="upload" name="upload" class="form-control col-md-7">
+                                        <div id="gender" class="btn-group" data-toggle="buttons">
+                                            <label class="btn btn-default" data-toggle-class="btn-primary"
+                                                   data-toggle-passive-class="btn-default">
+                                                <input type="radio" name="status" value="1"> Post &nbsp;
+                                            </label>
+                                            <label class="btn btn-primary" data-toggle-class="btn-primary"
+                                                   data-toggle-passive-class="btn-default">
+                                                <input type="radio" name="status" value="0"> Draft
+                                            </label>
+                                        </div>
                                     </div>
                                 </div>
 
                                 <div class="form-group">
-                                    <label for="upload" class="control-label col-xs-3">Meta Keywords </label>
+                                    <label for="tag_keywords" class="control-label col-xs-3">Meta Keywords </label>
                                     <div class="col-sm-6">
-                                        <input data-role="tagsinput" id="tag_keyworkds" type="text" class="form-control col-md-7">
+                                        <input data-role="tagsinput" name="tag_keywords" id="tag_keywords" type="text"
+                                               class="form-control col-md-7">
                                     </div>
                                 </div>
 
 
                                 <div class="form-group">
-                                    <label for="upload" class="control-label col-xs-3">Meta Desriptions </label>
+                                    <label for="desc" class="control-label col-xs-3">Meta Desriptions </label>
                                     <div class="col-sm-6">
-                                        <textarea name="" class="form-control" id="" cols="30" rows="5"></textarea>
+                                        <textarea name="desc" class="form-control" id="desc" cols="30" rows="5">{{old('desc')}}</textarea>
                                     </div>
                                 </div>
 
@@ -107,12 +116,14 @@
                         <div class="x_panel">
                             <div class="x_content">
                                 <div class="form-group">
-                                <textarea class="form-control" name="" id="tinyContent" cols="30" rows="10">
+                                <textarea class="form-control" name="tinyContent" id="tinyContent" cols="30" rows="10">
                                 </textarea>
                                 </div>
 
                                 <div class="form-group">
-                                    <button type="submit" class="btn btn-success"><i class="fa fa-pulse"></i> Create Page</button>
+                                    <button type="submit" class="btn btn-success"><i class="fa fa-pulse"></i> Create
+                                        Page
+                                    </button>
                                 </div>
                             </div>
                         </div>

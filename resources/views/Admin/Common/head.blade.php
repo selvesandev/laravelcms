@@ -8,6 +8,8 @@
     <title>{{$title}}</title>
     <link rel="stylesheet" href="{{URL::to('assets/bootstrap/dist/css/bootstrap.css')}}">
     <link rel="stylesheet" href="{{URL::to('assets/font-awesome/css/font-awesome.css')}}">
+    <link rel="stylesheet" href="{{URL::to('assets/select2/dist/css/select2.css')}}">
+
     <link rel="stylesheet" href="{{URL::to('assets/nprogress/nprogress.css')}}">
     <link rel="stylesheet" href="{{URL::to('assets/iCheck/skins/flat/green.css')}}">
     <link rel="stylesheet" href="{{URL::to('assets/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css')}}">
