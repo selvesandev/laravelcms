@@ -1,26 +1,8 @@
 $(document).ready(function () {
 
-    /**
-     * JS custom function trims space
-     * @returns {string}
-     */
-    String.prototype.trim = function() {
-        return this.replace(/^\s+|\s+$/g,"");
-    };
-    /**
-     * JS custom function trims left space
-     * @returns {string}
-     */
-    String.prototype.ltrim = function() {
-        return this.replace(/^\s+/,"");
-    };
-    /**
-     * JS custom function trims right space
-     * @returns {string}
-     */
-    String.prototype.rtrim = function() {
-        return this.replace(/\s+$/,"");
-    };
+    String.prototype.trim = function() { return this.replace(/^\s+|\s+$/g,""); };
+    String.prototype.ltrim = function() { return this.replace(/^\s+/,""); };
+    String.prototype.rtrim = function() { return this.replace(/\s+$/,""); };
 
 
 
@@ -29,14 +11,20 @@ $(document).ready(function () {
         allowClear: true
     });
 
-    /*
-     $(".select2_group").select2({});
-     $(".select2_multiple").select2({
-     maximumSelectionLength: 4,
-     placeholder: "With Max Selection limit 4",
-     allowClear: true
-     });
-     */
+
+
+    //customise checkbox and radio buttons
+    // iCheck
+        if ($("input.iSquare")) {
+            $(document).ready(function () {
+                $('input.iSquare').iCheck({
+                    checkboxClass: 'icheckbox_square-green',
+                    radioClass: 'iradio_square-green'
+                });
+            });
+        }
+    // iCheck
+
 
 
 
@@ -53,7 +41,7 @@ $(document).ready(function () {
         var h1Title=pageCreateForm.find('input#h1title');
         var menuTitle=pageCreateForm.find('input#menutitle');
 
-        if (fieldValue.length > 5 || fieldValue.length==0) {
+        if (fieldValue.length >= 2 || fieldValue.length==0) {
             duplicateFormInput(fieldValue,[h1Title,menuTitle]);
         }
     });

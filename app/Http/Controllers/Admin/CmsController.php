@@ -6,10 +6,8 @@ use App\Models\Page;
 use App\Models\Url;
 use Illuminate\Http\Request;
 
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
-use League\Flysystem\Exception;
 use Validator;
+use Exception;
 
 
 class CmsController extends MainController
@@ -29,7 +27,7 @@ class CmsController extends MainController
     public function createAction(Request $request)
     {
         $validate = Validator::make($request->all(), [
-            'title' => 'required|min:5',
+            'title' => 'required|min:2',
             'h1title' => 'required',
             'menutitle' => 'required',
             'status' => 'required',
@@ -60,13 +58,29 @@ class CmsController extends MainController
                 'url'=>$this->seoUrl($request->title,'-')
             ];
             if(Url::create($dataUrl)){
-                return redirect()->route('pages')->with('success','Page was created successfully');
+                return redirect()->route('manage-page')->with('success','Page was created successfully');
             }else{
                 return redirect()->back()->with('error','There was a problem');
             }
         }else{
             return redirect()->back()->with('error','There was a problem');
         }
+    }
 
+
+
+    public function manage(){
+        try{
+            $pages=Page::all();
+            $columns=['author'=>true,'tags'=>true,'comments'=>true,'date'=>true,'h1 title'=>false,'menu_title'=>false];
+            $this->data('published',Page::where('status',1)->get());
+            $this->data('pages',$pages);
+            $this->data('columns',$columns);
+            $this->data('title','Manage Pages');
+        }catch(Exception $e){
+            die ($e->getMessage());
+        }finally{
+            return view('admin.cms.manage',$this->data);
+        }
     }
 }

@@ -16,6 +16,8 @@
     <link rel="stylesheet" href="{{URL::to('assets/jqvmap/dist/jqvmap.min.css')}}">
     <link rel="stylesheet" href="{{URL::to('assets/tagsinput-latest/dist/bootstrap-tagsinput.css')}}">
 
+    <link rel="stylesheet" href="{{URL::to('assets/iCheck/skins/all.css')}}">
+
     <!--parse validation css-->
     <link rel="stylesheet" href="{{URL::to('assets/parsleyjs/src/parsley.css')}}">
 

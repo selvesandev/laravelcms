@@ -1,3 +1,6 @@
+a{
+    color:#337AB7;
+}
 .bootstrap-tagsinput{
     width:100%;
 }
@@ -9,4 +12,34 @@ input.parsley-error:focus, textarea.parsley-error:focus, select.parsley-error:fo
 
 .parsley-errors-list{
     line-height: 1.9em;
+}
+
+.x_content{
+    padding: 20px 0;
+}
+ul.table_columns{
+    margin: 0;
+    padding: 0;
+}
+
+ul.table_columns li{
+    list-style: none;
+    display: inline;
+    margin-right: 30px;
+}
+.form-xs{
+    height: 25px;
+    width: 100px!important;
+    padding-top:5px;
+    font-size: 12px;
+}
+.form-xs-height{
+    height: 25px;
+    font-size: 12px;
+    padding-top:5px;
+}
+
+.btn-xs{
+    height: 25px;
+    margin-top:5px;
 }

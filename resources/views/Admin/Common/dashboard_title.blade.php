@@ -1,6 +1,6 @@
 <div class="page-title">
     <div class="title_left">
-        <h3>Welcome to the dashboard</h3>
+        <h3>{{$data}}</h3>
     </div>
 
     <div class="title_right">

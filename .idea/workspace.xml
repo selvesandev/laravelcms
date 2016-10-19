@@ -2,8 +2,139 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c732866-cc6b-418d-8013-18306c3041e6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/admin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icheck/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icheck/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/icheck/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/Admin/Cms/manage.blade.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/assets/iCheck/.bower.json" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/bower.json" afterPath="$PROJECT_DIR$/public/assets/icheck/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/icheck.jquery.json" afterPath="$PROJECT_DIR$/public/assets/icheck/icheck.jquery.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/icheck.js" afterPath="$PROJECT_DIR$/public/assets/icheck/icheck.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/icheck.min.js" afterPath="$PROJECT_DIR$/public/assets/icheck/icheck.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/all.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/_all.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/_all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/aero.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/aero.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/aero.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/aero.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/aero@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/aero@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/blue.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/blue.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/blue@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/blue@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/flat.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/flat.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/flat.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/flat.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/flat@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/flat@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/green.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/green.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/green.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/green@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/green@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/grey.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/grey.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/grey.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/grey@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/grey@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/orange.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/orange.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/orange.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/orange.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/orange@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/orange@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/pink.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/pink.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/pink.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/pink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/pink@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/pink@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/purple.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/purple.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/purple.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/purple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/purple@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/purple@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/red.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/red.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/red@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/red@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/yellow.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/yellow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/yellow.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/yellow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/flat/yellow@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/flat/yellow@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/futurico/futurico.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/futurico/futurico.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/futurico/futurico.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/futurico/futurico.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/futurico/futurico@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/futurico/futurico@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/_all.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/_all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/aero.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/aero.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/blue.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/green.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/green.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/grey.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/grey.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/line.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/line.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/line.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/line.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/line@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/line@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/orange.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/orange.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/pink.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/pink.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/purple.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/purple.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/red.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/line/yellow.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/line/yellow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/_all.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/_all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/aero.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/aero.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/aero.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/aero.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/aero@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/aero@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/blue.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/blue.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/blue@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/blue@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/green.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/green.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/green.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/green@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/green@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/grey.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/grey.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/grey.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/grey@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/grey@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/minimal.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/minimal.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/minimal.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/minimal.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/minimal@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/minimal@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/orange.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/orange.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/orange.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/orange.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/orange@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/orange@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/pink.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/pink.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/pink.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/pink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/pink@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/pink@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/purple.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/purple.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/purple.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/purple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/purple@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/purple@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/red.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/red.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/red@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/red@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/yellow.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/yellow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/yellow.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/yellow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/minimal/yellow@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/minimal/yellow@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/polaris/polaris.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/polaris/polaris.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/polaris/polaris.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/polaris/polaris.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/polaris/polaris@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/polaris/polaris@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/_all.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/_all.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/aero.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/aero.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/aero.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/aero.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/aero@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/aero@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/blue.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/blue.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/blue.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/blue.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/blue@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/blue@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/green.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/green.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/green.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/green.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/green@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/green@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/grey.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/grey.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/grey.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/grey.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/grey@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/grey@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/orange.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/orange.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/orange.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/orange.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/orange@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/orange@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/pink.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/pink.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/pink.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/pink.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/pink@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/pink@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/purple.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/purple.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/purple.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/purple.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/purple@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/purple@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/red.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/red.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/red.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/red.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/red@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/red@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/square.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/square.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/square.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/square.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/square@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/square@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/yellow.css" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/yellow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/yellow.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/yellow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/public/assets/iCheck/skins/square/yellow@2x.png" afterPath="$PROJECT_DIR$/public/assets/icheck/skins/square/yellow@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.css" afterPath="$PROJECT_DIR$/public/assets/app/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.js" afterPath="$PROJECT_DIR$/public/assets/app/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/build/js/custom.js" afterPath="$PROJECT_DIR$/public/assets/build/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
     </list>
     <ignored path="larcms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,21 +155,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Layouts/master.blade.php">
+      <file leaf-file-name="head.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="276">
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/build/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+            <state relative-caret-position="402">
+              <caret line="237" column="24" selection-start-line="237" selection-start-column="24" selection-end-line="237" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="438">
+              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -47,40 +188,55 @@
       <file leaf-file-name="foot.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+            <state relative-caret-position="446">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/.bowerrc">
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="153">
+              <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <file leaf-file-name="CmsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="75" column="67" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
               <folding>
-                <marker date="1475725383828" expanded="true" signature="0:552" ph="&lt;IfModule mod_rewrite.c&gt;" />
+                <element signature="e#46#66#0#PHP" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
+      <file leaf-file-name="manage.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/manage.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+            <state relative-caret-position="299">
+              <caret line="90" column="133" selection-start-line="90" selection-start-column="133" selection-end-line="90" selection-end-column="133" />
+              <folding>
+                <element signature="e#4819#4825#0#HTML" expanded="true" />
+                <element signature="e#4825#4831#0#HTML" expanded="true" />
+                <element signature="e#4833#4839#0#HTML" expanded="true" />
+                <element signature="e#4839#4845#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/admin.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -89,8 +245,8 @@
       <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1173">
-              <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
+            <state relative-caret-position="480">
+              <caret line="96" column="96" selection-start-line="96" selection-start-column="96" selection-end-line="96" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -99,8 +255,8 @@
       <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -141,25 +297,28 @@
         <option value="$PROJECT_DIR$/app/Models/Page.php" />
         <option value="$PROJECT_DIR$/app/Models/Url.php" />
         <option value="$USER_HOME$/Desktop/gentelella-master/gentelella-master/production/form.html" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php" />
         <option value="$PROJECT_DIR$/app/Traits/SessionVar.php" />
         <option value="$PROJECT_DIR$/resources/lang/en/message.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/message.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/validation.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/MainController.php" />
         <option value="$PROJECT_DIR$/app/Traits/AdminManager.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php" />
-        <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/Helpers/functions.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Dashboard/index.blade.php" />
         <option value="$PROJECT_DIR$/public/.bowerrc" />
         <option value="$PROJECT_DIR$/public/bower.json" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
-        <option value="$PROJECT_DIR$/public/assets/app/application.css" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/build/js/custom.js" />
         <option value="$PROJECT_DIR$/public/assets/app/application.js" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
+        <option value="$PROJECT_DIR$/config/admin.php" />
+        <option value="$PROJECT_DIR$/public/assets/app/application.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Cms/manage.blade.php" />
       </list>
     </option>
   </component>
@@ -256,18 +415,12 @@
               <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -281,33 +434,19 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="Admin" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parsleyjs" />
+              <option name="myItemId" value="Cms" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,19 +460,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="parsleyjs" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,25 +474,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="larcms" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Helpers" />
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,13 +492,13 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\larcms\public\assets" />
-      <recent name="C:\xampp\htdocs\larcms\public\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\larcms\public\assets" />
       <recent name="C:\xampp\htdocs\larcms\public\assets\skycons" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\larcms\public\assets" />
+      <recent name="C:\xampp\htdocs\larcms\public\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -461,12 +570,12 @@
       <workItem from="1476821933465" duration="759000" />
       <workItem from="1476888723782" duration="5122000" />
       <workItem from="1476897096707" duration="1167000" />
-      <workItem from="1476900506998" duration="1097000" />
+      <workItem from="1476900506998" duration="10217000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61084000" />
+    <option name="totallyTimeSpent" value="70204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
@@ -480,7 +589,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -509,27 +618,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/MainController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/jqvmap/src/JQVMap/reset.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/Chart.js/src/core/core.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="90" column="44" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/js/moment/moment.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -667,13 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Traits/SessionVar.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -702,20 +783,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="59" column="33" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Traits/General.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="316">
@@ -727,13 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/nav.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -814,26 +874,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/parsleyjs/src/parsley.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,34 +888,114 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/build/js/custom.js">
+    <entry file="file://$PROJECT_DIR$/config/nav.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="412">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1173">
-          <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/icheck-1.x/demo/js/zepto.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="4" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="47" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/build/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="237" column="24" selection-start-line="237" selection-start-column="24" selection-end-line="237" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        <state relative-caret-position="438">
+          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="96" column="96" selection-start-line="96" selection-start-column="96" selection-end-line="96" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="58" selection-start-line="9" selection-start-column="58" selection-end-line="9" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="75" column="67" selection-start-line="75" selection-start-column="67" selection-end-line="75" selection-end-column="67" />
+          <folding>
+            <element signature="e#46#66#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/manage.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="90" column="133" selection-start-line="90" selection-start-column="133" selection-end-line="90" selection-end-column="133" />
+          <folding>
+            <element signature="e#4819#4825#0#HTML" expanded="true" />
+            <element signature="e#4825#4831#0#HTML" expanded="true" />
+            <element signature="e#4833#4839#0#HTML" expanded="true" />
+            <element signature="e#4839#4845#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

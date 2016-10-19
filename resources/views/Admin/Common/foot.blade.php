@@ -15,6 +15,7 @@
     <script src="{{URL::to('assets/bootstrap-progressbar/bootstrap-progressbar.min.js')}}"></script>
     <!-- select 2 custom select options-->
     <script src="{{URL::to('assets/select2/dist/js/select2.js')}}" type="text/javascript"></script>
+
     <!-- iCheck -->
     <script src="{{URL::to('assets/iCheck/icheck.min.js')}}"></script>
     <!-- Skycons -->
