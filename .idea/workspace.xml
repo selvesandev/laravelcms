@@ -2,9 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c732866-cc6b-418d-8013-18306c3041e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Helpers/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/.gitignore" afterPath="$PROJECT_DIR$/public/assets/Flot/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/.travis.yml" afterPath="$PROJECT_DIR$/public/assets/Flot/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/API.md" afterPath="$PROJECT_DIR$/public/assets/Flot/API.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/public/assets/Flot/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/FAQ.md" afterPath="$PROJECT_DIR$/public/assets/Flot/FAQ.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/LICENSE.txt" afterPath="$PROJECT_DIR$/public/assets/Flot/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/Makefile" afterPath="$PROJECT_DIR$/public/assets/Flot/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/NEWS.md" afterPath="$PROJECT_DIR$/public/assets/Flot/NEWS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/PLUGINS.md" afterPath="$PROJECT_DIR$/public/assets/Flot/PLUGINS.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/README.md" afterPath="$PROJECT_DIR$/public/assets/Flot/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/component.json" afterPath="$PROJECT_DIR$/public/assets/Flot/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-1.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-2.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-3.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-3.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-4.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-5.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-5.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-japan-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-japan-gdp-growth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-usa-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-usa-gdp-growth.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/annotating/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/annotating/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-interacting/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-interacting/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-multiple/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-multiple/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/date.js" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/date.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/africa" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/africa" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/antarctica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/antarctica" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/asia" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/asia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/australasia" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/australasia" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/backward" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/backward" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/etcetera" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/etcetera" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/europe" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/europe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/factory" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/factory" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/iso3166.tab" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/iso3166.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/leapseconds" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/leapseconds" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/northamerica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/northamerica" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/pacificnew" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/pacificnew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar87" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar87" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar88" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar88" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar89" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar89" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/southamerica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/southamerica" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/systemv" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/systemv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/yearistype.sh" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/yearistype.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/zone.tab" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/zone.tab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/basic-options/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/basic-options/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/basic-usage/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/basic-usage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/canvas/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/canvas/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/categories/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/examples.css" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/examples.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/image/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/image/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/interacting/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/interacting/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/navigate/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/navigate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/percentiles/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/percentiles/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/realtime/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/realtime/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/resize/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/resize/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/selection/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/selection/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-errorbars/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-errorbars/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-pie/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-pie/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-toggle/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-toggle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-types/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-types/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/shared/jquery-ui/jquery-ui.min.css" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/shared/jquery-ui/jquery-ui.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/stacking/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/stacking/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/symbols/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/symbols/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/threshold/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/threshold/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/tracking/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/tracking/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/visitors/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/visitors/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/zooming/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/zooming/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/excanvas.js" afterPath="$PROJECT_DIR$/public/assets/Flot/excanvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/flot.jquery.json" afterPath="$PROJECT_DIR$/public/assets/Flot/flot.jquery.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.colorhelpers.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.colorhelpers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.canvas.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.canvas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.categories.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.categories.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.crosshair.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.crosshair.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.errorbars.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.errorbars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.fillbetween.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.fillbetween.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.image.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.image.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.navigate.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.navigate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.pie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.resize.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.selection.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.selection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.stack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.symbol.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.symbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.threshold.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.threshold.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.time.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.time.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/package.json" afterPath="$PROJECT_DIR$/public/assets/Flot/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.css" afterPath="$PROJECT_DIR$/public/assets/app/application.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.js" afterPath="$PROJECT_DIR$/public/assets/app/application.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
     </list>
     <ignored path="larcms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,48 +119,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AdminController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/AdminController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Dashboard/index.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Helpers/functions.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/MainController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-              <folding>
-                <element signature="e#46#74#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Admin/Layouts/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,41 +129,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="head.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            <state relative-caret-position="323">
+              <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="nav.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/nav.php">
+      <file leaf-file-name="foot.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".bowerrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/.bowerrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1475725383828" expanded="true" signature="0:552" ph="&lt;IfModule mod_rewrite.c&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/bower.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="left_nav.blade.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/left_nav.blade.php">
+      <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="159" selection-start-line="44" selection-start-column="159" selection-end-line="44" selection-end-column="159" />
+            <state relative-caret-position="285">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AdminManager.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Traits/AdminManager.php">
+      <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+            <state relative-caret-position="514">
+              <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -148,20 +242,15 @@
         <option value="$PROJECT_DIR$/config/nav.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/left_nav.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/top_nav.blade.php" />
-        <option value="$PROJECT_DIR$/public/assets/app/application.css" />
         <option value="$PROJECT_DIR$/database/migrations/2016_10_11_033128_add_status_pages.php" />
         <option value="$PROJECT_DIR$/app/Models/Page.php" />
         <option value="$PROJECT_DIR$/app/Models/Url.php" />
         <option value="$USER_HOME$/Desktop/gentelella-master/gentelella-master/production/form.html" />
-        <option value="$PROJECT_DIR$/public/assets/app/application.js" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/dashboard_title.blade.php" />
         <option value="$PROJECT_DIR$/app/Traits/SessionVar.php" />
         <option value="$PROJECT_DIR$/resources/lang/en/message.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/message.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Common/validation.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/MainController.php" />
         <option value="$PROJECT_DIR$/app/Traits/AdminManager.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php" />
@@ -169,6 +258,13 @@
         <option value="$PROJECT_DIR$/app/Helpers/functions.php" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/resources/views/Admin/Dashboard/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/.bowerrc" />
+        <option value="$PROJECT_DIR$/public/bower.json" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/app/application.css" />
+        <option value="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
+        <option value="$PROJECT_DIR$/public/assets/app/application.js" />
       </list>
     </option>
   </component>
@@ -217,7 +313,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -278,6 +373,86 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parsleyjs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parsleyjs" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="larcms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -302,6 +477,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -388,19 +564,20 @@
       <workItem from="1476582015360" duration="88000" />
       <workItem from="1476721105160" duration="6674000" />
       <workItem from="1476821933465" duration="759000" />
-      <workItem from="1476888723782" duration="62000" />
+      <workItem from="1476888723782" duration="5122000" />
+      <workItem from="1476897096707" duration="1167000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53760000" />
+    <option name="totallyTimeSpent" value="59987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2832061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28778625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -436,41 +613,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Layouts/master.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/build/css/custom.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83249">
-          <caret line="4897" column="0" selection-start-line="4897" selection-start-column="0" selection-end-line="4897" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Traits/General.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/MainController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -479,13 +621,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/jqvmap/src/JQVMap/reset.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/build/js/custom.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -593,13 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/Page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -629,13 +757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2016_10_09_122612_create_pages_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
@@ -647,13 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
         </state>
       </provider>
     </entry>
@@ -692,13 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Admin/CmsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
@@ -724,7 +831,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -732,7 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -740,7 +845,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="44" column="159" selection-start-line="44" selection-start-column="159" selection-end-line="44" selection-end-column="159" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,7 +852,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,7 +859,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,7 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -780,9 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-          <folding>
-            <element signature="e#46#74#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -794,10 +892,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1475725383828" expanded="true" signature="0:552" ph="&lt;IfModule mod_rewrite.c&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/parsleyjs/src/parsley.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="19" column="79" selection-start-line="19" selection-start-column="79" selection-end-line="19" selection-end-column="79" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/build/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69866">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/build/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/app/application.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="514">
+          <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
           <folding />
         </state>
       </provider>

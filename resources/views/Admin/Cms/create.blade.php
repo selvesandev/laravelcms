@@ -11,7 +11,7 @@
             <div class="clearfix"></div>
             <div class="row">
                 <div class="col-md-12 col-sm-12 col-xs-12">
-                    <form action="{{route('cms-create')}}" method="post" class="form-horizontal form-label-left">
+                    <form data-parsley-validate action="{{route('cms-create')}}" id="createPageForm" method="post" class="form-horizontal form-label-left">
                         <div class="x_panel">
                             <!--page title-->
                             <div class="x_title">
@@ -44,7 +44,7 @@
                                     <label for="title" class="control-label col-xs-3">Title <span
                                                 class="required">*</span></label>
                                     <div class="col-sm-6">
-                                        <input id="title" type="text" name="title"
+                                        <input data-parsley-minlength="6" required id="title" type="text" name="title"
                                                class="form-control col-md-7">
                                     </div>
                                 </div>
@@ -54,7 +54,7 @@
                                 <div class="form-group">
                                     <label for="h1title" class="control-label col-xs-3">H1 Title <span class="">*</span></label>
                                     <div class="col-sm-6">
-                                        <input id="h1title" type="text" name="h1title"
+                                        <input data-parsley-minlength="6" required id="h1title" type="text" name="h1title"
                                                class="form-control col-md-7">
                                     </div>
                                 </div>
@@ -63,8 +63,7 @@
                                     <label for="menutitle" class="control-label col-xs-3">Menu Title <span
                                                 class="">*</span></label>
                                     <div class="col-sm-6">
-                                        <input type="text" id="menutitle" name="menutitle"
-                                               class="form-control col-md-7">
+                                        <input data-parsley-minlength="6" required type="text" id="menutitle" name="menutitle" class="form-control col-md-7">
                                     </div>
                                 </div>
 
@@ -84,9 +83,9 @@
                                                    data-toggle-passive-class="btn-default">
                                                 <input type="radio" name="status" value="1"> Post &nbsp;
                                             </label>
-                                            <label class="btn btn-primary" data-toggle-class="btn-primary"
+                                            <label class="btn btn-primary active" data-toggle-class="btn-primary"
                                                    data-toggle-passive-class="btn-default">
-                                                <input type="radio" name="status" value="0"> Draft
+                                                <input type="radio" checked name="status" value="0"> Draft
                                             </label>
                                         </div>
                                     </div>
@@ -95,8 +94,7 @@
                                 <div class="form-group">
                                     <label for="tag_keywords" class="control-label col-xs-3">Meta Keywords </label>
                                     <div class="col-sm-6">
-                                        <input data-role="tagsinput" name="tag_keywords" id="tag_keywords" type="text"
-                                               class="form-control col-md-7">
+                                        <input required data-role="tagsinput" name="tag_keywords" id="tag_keywords" type="text" class="form-control col-md-7">
                                     </div>
                                 </div>
 
@@ -104,7 +102,7 @@
                                 <div class="form-group">
                                     <label for="desc" class="control-label col-xs-3">Meta Desriptions </label>
                                     <div class="col-sm-6">
-                                        <textarea name="desc" class="form-control" id="desc" cols="30" rows="5">{{old('desc')}}</textarea>
+                                        <textarea required name="desc" class="form-control" id="desc" cols="30" rows="5">{{old('desc')}}</textarea>
                                     </div>
                                 </div>
 

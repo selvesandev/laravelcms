@@ -1,0 +1,20 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/selvesandev/laravelcms",
+  "authors": [
+    "Selvesan <dev.selvesan@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "parsleyjs": "^2.5.1"
+  }
+}

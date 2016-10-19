@@ -5,7 +5,7 @@
     <script src="{{URL::to('assets/bootstrap/dist/js/bootstrap.min.js')}}"></script>
     <!-- FastClick -->
     <script src="{{URL::to('assets/fastclick/lib/fastclick.js')}}"></script>
-    <!-- NProgress -->
+    <!-- NProgress Progress bar on the top-->
     <script src="{{URL::to('assets/nprogress/nprogress.js')}}"></script>
     <!-- Chart.js -->
     <script src="{{URL::to('assets/Chart.js/dist/Chart.min.js')}}"></script>
@@ -13,7 +13,7 @@
     <script src="{{URL::to('assets/gauge.js/dist/gauge.min.js')}}"></script>
     <!-- bootstrap-progressbar -->
     <script src="{{URL::to('assets/bootstrap-progressbar/bootstrap-progressbar.min.js')}}"></script>
-    <!-- select 2 -->
+    <!-- select 2 custom select options-->
     <script src="{{URL::to('assets/select2/dist/js/select2.js')}}" type="text/javascript"></script>
     <!-- iCheck -->
     <script src="{{URL::to('assets/iCheck/icheck.min.js')}}"></script>
@@ -39,6 +39,11 @@
     <script src="{{URL::to('assets/js/moment/moment.min.js')}}"></script>
     <script src="{{URL::to('assets/js/datepicker/daterangepicker.js')}}"></script>
     <script src="{{URL::to('assets/tagsinput-latest/dist/bootstrap-tagsinput.js')}}"></script>
+
+    <!--Parsely JS form validation library-->
+    <script src="{{URL::to('assets/parsleyjs/dist/parsley.js')}}" type="text/javascript"></script>
+
+    <!--Custom Javascript-->
     <script src="{{URL::to('assets/build/js/custom.js')}}"></script>
     <script src="{{URL::to('assets/app/application.js')}}"></script>
     </body>
