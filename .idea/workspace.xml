@@ -2,103 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c732866-cc6b-418d-8013-18306c3041e6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/.gitignore" afterPath="$PROJECT_DIR$/public/assets/Flot/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/.travis.yml" afterPath="$PROJECT_DIR$/public/assets/Flot/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/API.md" afterPath="$PROJECT_DIR$/public/assets/Flot/API.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/public/assets/Flot/CONTRIBUTING.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/FAQ.md" afterPath="$PROJECT_DIR$/public/assets/Flot/FAQ.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/LICENSE.txt" afterPath="$PROJECT_DIR$/public/assets/Flot/LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/Makefile" afterPath="$PROJECT_DIR$/public/assets/Flot/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/NEWS.md" afterPath="$PROJECT_DIR$/public/assets/Flot/NEWS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/PLUGINS.md" afterPath="$PROJECT_DIR$/public/assets/Flot/PLUGINS.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/README.md" afterPath="$PROJECT_DIR$/public/assets/Flot/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/component.json" afterPath="$PROJECT_DIR$/public/assets/Flot/component.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-1.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-1.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-2.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-2.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-3.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-3.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-4.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-5.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth-5.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-eu-gdp-growth.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-japan-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-japan-gdp-growth.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-usa-gdp-growth.json" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/data-usa-gdp-growth.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/ajax/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/annotating/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/annotating/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-interacting/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-interacting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-multiple/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-multiple/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/date.js" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/date.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/africa" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/africa" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/antarctica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/antarctica" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/asia" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/asia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/australasia" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/australasia" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/backward" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/backward" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/etcetera" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/etcetera" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/europe" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/europe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/factory" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/factory" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/iso3166.tab" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/iso3166.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/leapseconds" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/leapseconds" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/northamerica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/northamerica" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/pacificnew" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/pacificnew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar87" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar87" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar88" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar88" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar89" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/solar89" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/southamerica" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/southamerica" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/systemv" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/systemv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/yearistype.sh" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/yearistype.sh" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/zone.tab" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time-zones/tz/zone.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/axes-time/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/basic-options/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/basic-options/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/basic-usage/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/basic-usage/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/canvas/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/canvas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/categories/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/examples.css" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/examples.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/image/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/image/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/interacting/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/interacting/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/navigate/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/navigate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/percentiles/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/percentiles/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/realtime/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/realtime/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/resize/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/resize/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/selection/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/selection/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-errorbars/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-errorbars/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-pie/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-pie/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-toggle/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-toggle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/series-types/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/series-types/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/shared/jquery-ui/jquery-ui.min.css" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/shared/jquery-ui/jquery-ui.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/stacking/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/stacking/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/symbols/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/symbols/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/threshold/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/threshold/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/tracking/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/tracking/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/visitors/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/visitors/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/examples/zooming/index.html" afterPath="$PROJECT_DIR$/public/assets/Flot/examples/zooming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/excanvas.js" afterPath="$PROJECT_DIR$/public/assets/Flot/excanvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/flot.jquery.json" afterPath="$PROJECT_DIR$/public/assets/Flot/flot.jquery.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.colorhelpers.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.colorhelpers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.canvas.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.canvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.categories.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.categories.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.crosshair.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.crosshair.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.errorbars.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.errorbars.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.fillbetween.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.fillbetween.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.image.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.image.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.navigate.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.navigate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.pie.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.pie.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.resize.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.resize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.selection.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.selection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.stack.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.stack.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.symbol.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.symbol.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.threshold.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.threshold.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.time.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.flot.time.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/jquery.js" afterPath="$PROJECT_DIR$/public/assets/Flot/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/Flot/package.json" afterPath="$PROJECT_DIR$/public/assets/Flot/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.css" afterPath="$PROJECT_DIR$/public/assets/app/application.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/app/application.js" afterPath="$PROJECT_DIR$/public/assets/app/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/foot.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" afterPath="$PROJECT_DIR$/resources/views/Admin/Common/head.blade.php" />
     </list>
     <ignored path="larcms.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -171,21 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/bower.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            <state relative-caret-position="455">
+              <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -194,7 +89,7 @@
       <file leaf-file-name="create.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
+            <state relative-caret-position="1173">
               <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
               <folding />
             </state>
@@ -312,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -478,6 +372,7 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -566,18 +461,19 @@
       <workItem from="1476821933465" duration="759000" />
       <workItem from="1476888723782" duration="5122000" />
       <workItem from="1476897096707" duration="1167000" />
+      <workItem from="1476900506998" duration="1097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59987000" />
+    <option name="totallyTimeSpent" value="61084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1370" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28778625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29236642" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -952,7 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,7 +861,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Admin/Cms/create.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
+        <state relative-caret-position="1173">
           <caret line="69" column="56" selection-start-line="69" selection-start-column="56" selection-end-line="69" selection-end-column="56" />
           <folding />
         </state>
@@ -974,8 +869,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/assets/app/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="455">
+          <caret line="69" column="11" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
           <folding />
         </state>
       </provider>

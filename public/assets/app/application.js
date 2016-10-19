@@ -39,6 +39,10 @@ $(document).ready(function () {
      */
 
 
+
+
+
+
     /**
      * Page Create Form Generates h1-title, menu title and keywords as per title value
      */
@@ -49,9 +53,7 @@ $(document).ready(function () {
         var h1Title=pageCreateForm.find('input#h1title');
         var menuTitle=pageCreateForm.find('input#menutitle');
 
-        console.log($this);
-
-        if (fieldValue.length > 5) {
+        if (fieldValue.length > 5 || fieldValue.length==0) {
             duplicateFormInput(fieldValue,[h1Title,menuTitle]);
         }
     });
